@@ -1,4 +1,4 @@
-#Pseudocode Tugas4
+# Pseudocode Tugas4
 	1. 	BEGIN
 	2. 	string nama;
 		int a,b,c,e;
@@ -13,7 +13,7 @@
 	7.	END
 
 
-#Perbedaan IF ELSE dan SWITCH CASE
+# Perbedaan IF ELSE dan SWITCH CASE
 
 	1. Pernyataan SWITCH lebih mudah diekspresikan untuk kondisi panjang bila dibandingkan dengan pernyataan IF yang menjadi lebih kompleks seiring bertambahnya jumlah kondisi dan IF yang bersarang.
 
